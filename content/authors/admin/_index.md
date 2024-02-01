@@ -54,6 +54,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Fahri Alfiansyah is a schoolarship student of undergraduate computer science at the Telkom University, Indonesia. Him research interests include text generation, image processing, and time series analysis. Recently, he interned at the Direktorat PUTI Telkom University, which develops ontology based semantic similarity for paper recommendation.
